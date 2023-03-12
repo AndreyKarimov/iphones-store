@@ -1,0 +1,46 @@
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif; */
+main {
+    width: 100%;
+}
+.new-era {
+    height: 913px;
+    width: 100%;
+    min-width: max-content;
+    padding-top: 111px;
+    
+    text-align: center;
+    background: #1E1E1E;
+    font-family: 'Montserrat', sans-serif;
+}
+.new-era_paragraph {
+                    
+    font-weight: 700;
+    font-size: 140px;
+    line-height: 171px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.new-era__your-iphone {
+    margin-top: 1px;
+    
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: 0.03em;
+    color: #F5F5F5;
+}
+
+.new-era__iphones-img__wrapper {
+    margin: 62px auto 0;
+    max-width: 1512px;
+}
+
+.new-era__iphones-img__wrapper img {
+    padding: 0 106px;
+    width: 100%;
+    height: auto;
+}
